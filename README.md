@@ -19,7 +19,7 @@ This project allows you to control Spotify playback using hand gestures captured
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/hand-gesture-spotify-control.git
+   git clone https://github.com/case0074/hand-gesture-spotify-control.git
    cd hand-gesture-spotify-control
 
 2. **Install Dependencies**
